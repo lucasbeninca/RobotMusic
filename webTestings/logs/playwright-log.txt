@@ -1,0 +1,41 @@
+{"level":30,"time":"2024-12-14T14:29:16.121Z","pid":26975,"hostname":"pontows-ws-pc","msg":"Listening on 54279"}
+(node:26975) DeprecationWarning: Calling start() is no longer necessary. It can be safely omitted.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+{"level":30,"time":"2024-12-14T14:29:16.150Z","pid":26975,"hostname":"pontows-ws-pc","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2024-12-14T14:29:16.416Z","pid":26975,"hostname":"pontows-ws-pc","msg":"Adding browser to stack: chromium, version: 131.0.6778.33"}
+{"level":30,"time":"2024-12-14T14:29:16.416Z","pid":26975,"hostname":"pontows-ws-pc","msg":"End of node method newBrowser"}
+{"level":30,"time":"2024-12-14T14:29:16.416Z","pid":26975,"hostname":"pontows-ws-pc","msg":"Adding 0 contexts to browser"}
+{"level":30,"time":"2024-12-14T14:29:16.424Z","pid":26975,"hostname":"pontows-ws-pc","msg":"Start of node method newPage"}
+{"level":30,"time":"2024-12-14T14:29:16.424Z","pid":26975,"hostname":"pontows-ws-pc","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2024-12-14T14:29:16.441Z","pid":26975,"hostname":"pontows-ws-pc","msg":"Changed active context"}
+{"level":30,"time":"2024-12-14T14:29:16.648Z","pid":26975,"hostname":"pontows-ws-pc","msg":"Video path: undefined"}
+{"level":30,"time":"2024-12-14T14:29:16.649Z","pid":26975,"hostname":"pontows-ws-pc","msg":"Changed active page"}
+{"level":30,"time":"2024-12-14T14:29:16.972Z","pid":26975,"hostname":"pontows-ws-pc","msg":"End of node method newPage"}
+{"level":30,"time":"2024-12-14T14:29:16.976Z","pid":26975,"hostname":"pontows-ws-pc","msg":"Start of node method getText"}
+{"level":30,"time":"2024-12-14T14:29:16.977Z","pid":26975,"hostname":"pontows-ws-pc","msg":"Strict mode is enabled, find Locator with css=.logged-user in page."}
+{"level":30,"time":"2024-12-14T14:29:17.051Z","pid":26975,"hostname":"pontows-ws-pc","msg":"Retrieved text for element css=.logged-user containing Fernando Papito"}
+{"level":30,"time":"2024-12-14T14:29:17.051Z","pid":26975,"hostname":"pontows-ws-pc","msg":"End of node method getText"}
+{"level":30,"time":"2024-12-14T14:29:17.056Z","pid":26975,"hostname":"pontows-ws-pc","msg":"Start of node method click"}
+{"level":30,"time":"2024-12-14T14:29:17.056Z","pid":26975,"hostname":"pontows-ws-pc","msg":"Strict mode is enabled, find Locator with xpath=//div[contains(@class, \"song\")]//h6[text()=\"Bughium\"]/..//button[contains(@class,\"play\")] in page."}
+{"level":30,"time":"2024-12-14T14:29:17.255Z","pid":26975,"hostname":"pontows-ws-pc","msg":"End of node method click"}
+{"level":30,"time":"2024-12-14T14:29:17.262Z","pid":26975,"hostname":"pontows-ws-pc","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-12-14T14:29:17.262Z","pid":26975,"hostname":"pontows-ws-pc","msg":"Strict mode is enabled, find Locator with xpath=//div[contains(@class, \"song\")]//h6[text()=\"Bughium\"]/..//button[contains(@class,\"pause\")] in page."}
+{"level":30,"time":"2024-12-14T14:29:17.493Z","pid":26975,"hostname":"pontows-ws-pc","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-12-14T14:29:22.509Z","pid":26975,"hostname":"pontows-ws-pc","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-12-14T14:29:22.512Z","pid":26975,"hostname":"pontows-ws-pc","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-12-14T14:29:22.516Z","pid":26975,"hostname":"pontows-ws-pc","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-12-14T14:29:22.517Z","pid":26975,"hostname":"pontows-ws-pc","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-12-14T14:29:22.520Z","pid":26975,"hostname":"pontows-ws-pc","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-12-14T14:29:22.522Z","pid":26975,"hostname":"pontows-ws-pc","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-12-14T14:29:22.524Z","pid":26975,"hostname":"pontows-ws-pc","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-12-14T14:29:22.526Z","pid":26975,"hostname":"pontows-ws-pc","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-12-14T14:29:22.529Z","pid":26975,"hostname":"pontows-ws-pc","msg":"Changed active context"}
+{"level":30,"time":"2024-12-14T14:29:22.529Z","pid":26975,"hostname":"pontows-ws-pc","msg":"Changing current active page: page=46766664-0ab8-45f5-8979-b37242525d0f"}
+{"level":30,"time":"2024-12-14T14:29:22.529Z","pid":26975,"hostname":"pontows-ws-pc","msg":"Changed active page"}
+{"level":30,"time":"2024-12-14T14:29:22.532Z","pid":26975,"hostname":"pontows-ws-pc","msg":"Start of node method closeContext"}
+{"level":30,"time":"2024-12-14T14:29:22.541Z","pid":26975,"hostname":"pontows-ws-pc","msg":"Removed page=76c0c554-9ae0-464e-b2d3-a3bb3a357d23 from context=be692063-3e85-4d71-9d70-8377c5fb3eb1 page stack"}
+{"level":30,"time":"2024-12-14T14:29:22.575Z","pid":26975,"hostname":"pontows-ws-pc","msg":"End of node method closeContext"}
+{"level":30,"time":"2024-12-14T14:29:22.581Z","pid":26975,"hostname":"pontows-ws-pc","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-12-14T14:29:22.581Z","pid":26975,"hostname":"pontows-ws-pc","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-12-14T14:29:22.610Z","pid":26975,"hostname":"pontows-ws-pc","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2024-12-14T14:29:22.686Z","pid":26975,"hostname":"pontows-ws-pc","msg":"End of node method closeAllBrowsers"}
